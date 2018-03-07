@@ -4,7 +4,7 @@
 ## Electronics:
 This is a render of the Version 1 Electronics Pack 
 
-<img src="https://raw.githubusercontent.com/BarRobot/Botv1/master/Electronics/Render.png" width="128">
+<img src="https://raw.githubusercontent.com/BarRobot/Botv1/master/Electronics/Render.png" width="328">
 
 
 ## Mascot! 
