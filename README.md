@@ -1,5 +1,7 @@
 # Botv1
-
+BarRobot is a South African design for a Bartending Robot machine.  
+It comes with a really easy to use user interface: Selector Switch to choose Single, Double.  And one big red illuminited "Go" button.  Can't be easier!
+WS2812B LEDs surround the spirits bottle, helping to invite friends closer - attracted by RGB Blinkies!
 
 ## Electronics:
 This is a render of the Version 1 Electronics Pack 
