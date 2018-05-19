@@ -15,5 +15,11 @@ This is a render of the Version 1 Electronics Pack
 
 This is our official Mascot, designed by the talented [LUISDJT](https://www.fiverr.com/luisdjt) - Thanks for the cool Mascot!
 
+## Early prototypes in action
 
+Here's an old version, in use:
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/pBehmayH-3A/hqdefault.jpg)](https://youtu.be/pBehmayH-3A)
+
+(Youtube Link)
 
